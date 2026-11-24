@@ -9,6 +9,7 @@
 A curated map of speculative inference across exact sampling, long contexts,<br/>
 evolving interactions, agent execution, and resource-aware serving.
 
+[![Paper](https://img.shields.io/badge/Paper-Survey-B31B1B?style=flat-square)](https://doi.org/10.20944/preprints202611.2438.v1)
 [![Curated papers](https://img.shields.io/badge/Curated_Papers-123-7C3AED?style=flat-square)](https://github.com/Robot2050/Awesome-Speculative-Inference#table-of-contents)
 [![Research focus](https://img.shields.io/badge/Focus-Long_Contexts_and_Agents-2563EB?style=flat-square)](https://github.com/Robot2050/Awesome-Speculative-Inference#why-speculation-needs-a-task-level-view)
 [![License](https://img.shields.io/badge/License-Apache_2.0-22C55E?style=flat-square)](LICENSE)
