@@ -9,7 +9,6 @@
 A curated map of speculative inference across exact sampling, long contexts,<br/>
 evolving interactions, agent execution, and resource-aware serving.
 
-[![GitHub stars](https://img.shields.io/github/stars/Robot2050/Awesome-Speculative-Inference?style=flat-square&logo=github&color=F4B400)](https://github.com/Robot2050/Awesome-Speculative-Inference/stargazers)
 [![Curated papers](https://img.shields.io/badge/Curated_Papers-123-7C3AED?style=flat-square)](https://github.com/Robot2050/Awesome-Speculative-Inference#table-of-contents)
 [![Research focus](https://img.shields.io/badge/Focus-Long_Contexts_and_Agents-2563EB?style=flat-square)](https://github.com/Robot2050/Awesome-Speculative-Inference#why-speculation-needs-a-task-level-view)
 [![License](https://img.shields.io/badge/License-Apache_2.0-22C55E?style=flat-square)](LICENSE)
@@ -451,10 +450,14 @@ If this survey or collection is useful to your work, please cite:
 
 ```bibtex
 @article{zhao2026racing,
-  title   = {Racing Against Time: Speculative Inference in the Era of Long Contexts and Long-Horizon Agents},
-  author  = {Jihao Zhao and Zhe Sun and Shuaishuai Zu and Jiabao Kang and Lingfeng Feng and Biao Qin},
-  year    = {2026},
-  url     = {https://github.com/Robot2050/Awesome-Speculative-Inference}
+	doi = {10.20944/preprints202611.2438.v1},
+	url = {https://doi.org/10.20944/preprints202611.2438.v1},
+	year = 2026,
+	month = {November},
+	publisher = {Preprints},
+	author = {Jihao Zhao and Zhe Sun and Shuaishuai Zu and Jiabao Kang and Lingfeng Feng and Biao Qin},
+	title = {Racing Against Time: Speculative Inference in the Era of Long Contexts and Long-Horizon Agents},
+	journal = {Preprints}
 }
 ```
 
